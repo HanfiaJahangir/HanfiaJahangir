@@ -1,0 +1,124 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/pollen-pop.webp",
+            "title": "Pollen Pop",
+            "bodyText": "- A multiplayer match-three game with Web3 integration and PVP functionality.\n - Features Free Play, Tournament, Play for Prize, Story Mode, and PVP modes.\n - Integrated boosters and a dynamic in-game economy with rewards from leaderboard positions and daily milestones.",
+            "links": [
+                {
+                    "text": "Play Store",
+                    "href": "https://play.google.com/store/apps/details?id=hexagon.pollenpop.game&pcampaignid=web_share"
+                }
+            ],
+            "tags": [
+                "Unity3D",
+                "Colyseus",
+                "TypeScript",
+                "Web3",
+                "Phantom Wallet",
+                "Solana"
+            ]
+        },
+        {
+            "image": "images/projects/bat-flying.webp",
+            "title": "Flying Bat Robot Bike Game",
+            "bodyText": "- A superhero game where players take on missions involving rescue operations and combat against enemy groups. Players can transform into various forms to navigate challenges effectively.",
+            "links": [
+                {
+                    "text": "Play Store",
+                    "href": "https://play.google.com/store/apps/details?id=com.rds.bat.bike.robot.transformation.superhero.games&pcampaignid=web_share"
+                }
+            ],
+            "tags": [
+                "Unity3D",
+                "3D Physics",
+                "Game Design Patterns"
+            ]
+        },
+        {
+            "image": "images/projects/kart-racing.JPG",
+            "title": "Kart Racing League",
+            "bodyText": "- A dynamic multiplayer kart racing game featuring real-time races, kart customization, and an in-game economy for upgrades and decorations.\n - Utilizes advanced 3D physics and Photon Quantum for multiplayer functionality.",
+            "links": [
+            ],
+            "tags": [
+                "Unity3D",
+                "Photon Quantum",
+                "3D Physics",
+                "API Integration"
+            ]
+        },
+        {
+            "image": "images/projects/crystale.png",
+            "title": "Crystale",
+            "bodyText": "- A card-based strategy game featuring summoner, servant, and spell cards that interact with element tiles. Players manage mana costs, attack mechanics, and card promotion features while engaging in multiplayer gameplay through Colyseus.",
+            "links": [
+            ],
+            "tags": [
+                "Unity3D",
+                "Colyseus",
+                "TypeScript",
+                "API Integration"
+            ]
+        },
+        {
+            "image": "images/projects/zombie-survival.webp",
+            "title": "Zombie Survival Game",
+            "bodyText": "- A survival shooter game integrated with Roku functionality, where players fight waves of zombies with class-based mechanics.\n - Features a multiplayer mode where players battle each other between waves, with the last player standing declared the winner.",
+            "links": [],
+            "tags": [
+                "Unity3D",
+                "Roku SDK",
+                "Multiplayer"
+            ]
+        },
+        {
+            "image": "images/projects/robot-car-transformation.webp",
+            "title": "Rhino Robot Car Transformation",
+            "bodyText": "- An action-packed superhero game where players embark on missions involving rescues, attacking enemy groups, and fighting hordes of foes. Transform into various forms, including a rhino, human, robot, and car, to tackle different challenges.",
+            "links": [
+                {
+                    "text": "Play Store",
+                    "href": "https://play.google.com/store/apps/details?id=com.gag.rhino.monster.truck.transform.robot.games&pcampaignid=web_share"
+                }
+            ],
+            "tags": [
+                "Unity3D",
+                "Google Ads SDK",
+                "Unity Ads SDK"
+            ]
+        },
+        {
+            "image": "images/projects/claw-robot-hero.webp",
+            "title": "Claw Robot Hero",
+            "bodyText": "- An action-packed superhero game where players embark on missions involving rescues, attacking enemy groups, and fighting hordes of foes. Transform into various forms, including a rhino, human, robot, and car, to tackle different challenges.",
+            "links": [
+                {
+                    "text": "Play Store",
+                    "href": "https://play.google.com/store/apps/details?id=com.gag.superhero.robot.water.slide.adventure.game&pcampaignid=web_share"
+                }
+            ],
+            "tags": [
+                "Unity3D",
+                "Google Ads SDK",
+                "Unity Ads SDK"
+            ]
+        },
+        {
+            "image": "images/projects/scary-granny.webp",
+            "title": "Scary Granny Game",
+            "bodyText": "- A horror escape game where players must solve puzzles and avoid a terrifying antagonist to escape the house. Includes immersive sound design and atmosphere to enhance the horror experience.",
+            "links": [
+                {
+                    "text" : "Play Store",
+                    "href" : "https://play.google.com/store/apps/details?id=com.axondev.scary.granny.house.horror.escape&pcampaignid=web_share"
+                }
+            ],
+            "tags": [
+                "Unity3D",
+                "3D Modeling",
+                "Horror Game Design"
+            ]
+        }
+    ]
+}

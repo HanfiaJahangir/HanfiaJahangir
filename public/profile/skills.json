@@ -1,0 +1,88 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies. These are some of the major languages, technologies, tools, and platforms I have worked with:",
+    "skills": [
+        {
+            "title": "Languages",
+            "items": [
+                {
+                    "icon": "images/skills/csharp.png",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/cplusplus.png",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
+                }
+            ]
+        },
+        {
+            "title": "Frameworks & Technologies",
+            "items": [
+                {
+                    "icon": "images/skills/unity.png",
+                    "title": "Unity"
+                },
+                {
+                    "icon": "images/skills/photon.png",
+                    "title": "Photon Quantum"
+                },
+                {
+                    "icon": "images/skills/colyseus.png",
+                    "title": "Colyseus"
+                },
+                {
+                    "icon": "images/skills/android_new.png",
+                    "title": "Android Development"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Node.js"
+                }
+            ]
+        },
+        {
+            "title": "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/visual-studio.png",
+                    "title": "Visual Studio"
+                },
+                {
+                    "icon": "images/skills/unity.png",
+                    "title": "Unity Analytics"
+                },
+                {
+                    "icon": "images/skills/onesignal.png",
+                    "title": "OneSignal"
+                },
+                {
+                    "icon": "images/skills/jetbrains-rider.JPEG",
+                    "title": "JetBrains Rider"
+                },
+                {
+                    "icon": "images/skills/insomnia.png",
+                    "title": "Insomnia"
+                },
+                {
+                    "icon": "images/skills/google-play.png",
+                    "title": "Google Play"
+                }
+            ]
+        }
+    ]
+}

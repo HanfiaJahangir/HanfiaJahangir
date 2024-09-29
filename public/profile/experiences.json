@@ -1,0 +1,69 @@
+{
+    "experiences": [
+        {
+            "title": "Senior Game Engineer",
+            "subtitle": "Salvay",
+            "workType": "Full-time",
+            "workDescription": [
+                "Gained valuable client handling experience and project management skills, leading multiple initiatives.",
+                "Worked on improving user experience and collaborated closely with the art and design teams for better UX.",
+                "Integrated analytics tools such as **OneSignal** and **Unity Analytics** to monitor and enhance game performance."
+            ],
+            "dateText": "12/2022 – Present"
+        },
+        {
+            "title": "Senior Game Engineer",
+            "subtitle": "CLV Technologies",
+            "workType": "Full-time",
+            "workDescription": [
+                "Led the development of **Pollen Pop**, a multiplayer match-three game with Web3 integration and PVP functionality.",
+                "Developed a kart racing game using **Photon Quantum**, with advanced 3D physics and a dynamic in-game economy.",
+                "Worked on the backend using **Colyseus in TypeScript** for real-time multiplayer systems."
+            ],
+            "dateText": "02/2022 – Present"
+        },
+        {
+            "title": "Team lead",
+            "subtitle": "OZI Publishing",
+            "workType": "Full-time",
+            "workDescription": [
+                "Led the development of **Super Dog Flying Game** and **Superhero Flying Ironspider Robot Game**.",
+                "Managed and trained a team of 5-6 developers and artists, overseeing the development of various 3D games, including shooting, robot transformation, flying hero, car mechanic, and delivery truck games.",
+                "Fostered a collaborative environment, providing guidance and feedback to junior team members and driving project success.",
+                "Collaborated with design and art teams to create dynamic environments and engaging gameplay.",
+                "Optimized workflows and game performance, ensuring smooth delivery of projects."
+                 ],
+            "dateText": "11/2020 – 02/2022"
+        },
+        {
+            "title": "Unity Game Developer",
+            "subtitle": "Gaminations",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed a **bike stunt game**, including level design and dynamic hurdle systems.",
+                "Created a **sniper shooting game** with precision shooting mechanics and level progression."
+            ],
+            "dateText": "11/2019 – 11/2020"
+        },
+        {
+            "title": "Unity Game Developer",
+            "subtitle": "AXONDEV LLC",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed the official apps for both **Android and iOS** using a hybrid framework.",
+                "Created multiple **horror escape games**, focusing on story-driven mechanics and atmospheric design."
+            ],
+            "dateText": "07/2018 – 11/2019"
+        },
+        {
+            "title": "Jr. Unity Game Developer",
+            "subtitle": "OZI Publishing",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed a **third-person shooter game** with 12 levels.",
+                "Created a **superhero dog game** featuring a flying controller and rescue mission mechanics, designing the entire gameplay."
+            ],
+            "dateText": "01/2018 – 06/2018"
+        }
+    ]
+}

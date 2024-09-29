@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/hanfia-jahangir-793861109/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/HanfiaJahangir"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:hanfia.jahangir@gmail.com"
+        }
+    ]
+}
