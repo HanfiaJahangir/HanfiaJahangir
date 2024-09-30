@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/HanfiaJahangir/static/css/main.400fda42.css",
+    "main.js": "/HanfiaJahangir/static/js/main.17dabfa7.js",
+    "static/js/124.58e7a7fe.chunk.js": "/HanfiaJahangir/static/js/124.58e7a7fe.chunk.js",
+    "static/css/56.38b2df9f.chunk.css": "/HanfiaJahangir/static/css/56.38b2df9f.chunk.css",
+    "static/js/56.db23be3c.chunk.js": "/HanfiaJahangir/static/js/56.db23be3c.chunk.js",
+    "static/css/34.0220c454.chunk.css": "/HanfiaJahangir/static/css/34.0220c454.chunk.css",
+    "static/js/34.be7061c7.chunk.js": "/HanfiaJahangir/static/js/34.be7061c7.chunk.js",
+    "static/js/660.dff304d2.chunk.js": "/HanfiaJahangir/static/js/660.dff304d2.chunk.js",
+    "static/js/57.2e329688.chunk.js": "/HanfiaJahangir/static/js/57.2e329688.chunk.js",
+    "static/js/697.9d3aaf3b.chunk.js": "/HanfiaJahangir/static/js/697.9d3aaf3b.chunk.js",
+    "static/js/449.779db32a.chunk.js": "/HanfiaJahangir/static/js/449.779db32a.chunk.js",
+    "static/js/453.87e45203.chunk.js": "/HanfiaJahangir/static/js/453.87e45203.chunk.js",
+    "static/js/819.58a17425.chunk.js": "/HanfiaJahangir/static/js/819.58a17425.chunk.js",
+    "static/js/712.65bbade0.chunk.js": "/HanfiaJahangir/static/js/712.65bbade0.chunk.js",
+    "static/js/585.10569784.chunk.js": "/HanfiaJahangir/static/js/585.10569784.chunk.js",
+    "index.html": "/HanfiaJahangir/index.html",
+    "main.400fda42.css.map": "/HanfiaJahangir/static/css/main.400fda42.css.map",
+    "main.17dabfa7.js.map": "/HanfiaJahangir/static/js/main.17dabfa7.js.map",
+    "124.58e7a7fe.chunk.js.map": "/HanfiaJahangir/static/js/124.58e7a7fe.chunk.js.map",
+    "56.38b2df9f.chunk.css.map": "/HanfiaJahangir/static/css/56.38b2df9f.chunk.css.map",
+    "56.db23be3c.chunk.js.map": "/HanfiaJahangir/static/js/56.db23be3c.chunk.js.map",
+    "34.0220c454.chunk.css.map": "/HanfiaJahangir/static/css/34.0220c454.chunk.css.map",
+    "34.be7061c7.chunk.js.map": "/HanfiaJahangir/static/js/34.be7061c7.chunk.js.map",
+    "660.dff304d2.chunk.js.map": "/HanfiaJahangir/static/js/660.dff304d2.chunk.js.map",
+    "57.2e329688.chunk.js.map": "/HanfiaJahangir/static/js/57.2e329688.chunk.js.map",
+    "697.9d3aaf3b.chunk.js.map": "/HanfiaJahangir/static/js/697.9d3aaf3b.chunk.js.map",
+    "449.779db32a.chunk.js.map": "/HanfiaJahangir/static/js/449.779db32a.chunk.js.map",
+    "453.87e45203.chunk.js.map": "/HanfiaJahangir/static/js/453.87e45203.chunk.js.map",
+    "819.58a17425.chunk.js.map": "/HanfiaJahangir/static/js/819.58a17425.chunk.js.map",
+    "712.65bbade0.chunk.js.map": "/HanfiaJahangir/static/js/712.65bbade0.chunk.js.map",
+    "585.10569784.chunk.js.map": "/HanfiaJahangir/static/js/585.10569784.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400fda42.css",
+    "static/js/main.17dabfa7.js"
+  ]
+}
